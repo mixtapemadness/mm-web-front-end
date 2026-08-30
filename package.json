@@ -41,7 +41,7 @@
     "precommit"
   ],
   "devDependencies": {
-    "@babel/core": "7.0.0",
+    "@babel/core": "7.29.6",
     "@babel/plugin-proposal-class-properties": "7.0.0",
     "@babel/plugin-transform-runtime": "7.0.0",
     "@babel/preset-env": "7.0.0",
